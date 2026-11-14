@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.vercel
+*.log
+
+# Unused reference / source files (kept locally only)
+contact.php
+project-educore.jpg
+project-pos.jpg
+Rony.pdf
